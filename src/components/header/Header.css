@@ -1,0 +1,26 @@
+.header img {
+    width: 10rem;
+    height: auto;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+
+  }
+  .header .login {
+    display: flex;
+    align-items: center;
+  }
+  .header #icon {
+    margin-right: 0.5rem;
+  }
+  .header .link {
+    margin-right: 0.5rem;
+  }
+  .header .ml-2 {
+    margin-left:0.5rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    margin-right: 1rem;
+  }

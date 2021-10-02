@@ -1,0 +1,237 @@
+{
+    "shoes": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Sneakerși panza albastri",
+                "price": 150,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/YOko6Ye.jpg",
+                "size": 45,
+                "colour": "albastru",
+                "material": "Pânză",
+                "brand": "Nike",
+                "description": "Sneakerși din piele cu talpă inițial albă, ideal pentru alergat."
+            },
+            {
+                "id": 2,
+                "name": "Teniși negri Salomon",
+                "price": 160,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/4kWrAE8.jpg",
+                "size": 45,
+                "colour": "Negru",
+                "material": "Pânză",
+                "brand": "Salomon",
+                "description": "Teniși din pânză cu talpă inițial albă, din colecția de primăvară-vară 2021, Fashion Days."
+            },
+            {
+                "id": 3,
+                "name": "adidasi dama",
+                "price": 135,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/dKmpeaT.jpg",
+                "size": 40,
+                "colour": "albi",
+                "material": "Pânză",
+                "brand": "Adidas",
+                "description": "Adidasi albi din panza, din colecția de toamnă-iarnă 2021, Adidas."
+            }
+        ],
+        "image": "https://i.imgur.com/iawEiHT.jpg",
+        "name": "Sneakersi sport",
+        "description": "Articole de încălțăminte sportive"
+    },
+    "sweaters": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Jacheta fotbal",
+                "price": 70,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/McoJ7cV.png",
+                "size": "L",
+                "colour": "Albastra",
+                "material": "Poliester",
+                "brand": "KIPSTA",
+                "description": "Jacheta cu design modern, ideală pentru teren."
+            },
+            {
+                "id": 5,
+                "name": "Trening Nike",
+                "price": 225,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/zYP4ASY.png",
+                "size": "L",
+                "colour": "Rosu si negru",
+                "material": "Bumbac",
+                "brand": "Nike",
+                "description": "Trening Nike, ideal pentru basket, colecția primvară 2021 ."
+            },
+            {
+                "id": 6,
+                "name": "Trening călduros",
+                "price": 135,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/pMphAs8.jpg",
+                "size": "L",
+                "colour": "Turcoaz-negru",
+                "material": "Lână",
+                "brand": "SELECTED",
+                "description": "Pulovăr din lână, în două culori, colecția toamnă-iarnă 2021, SELECTED."
+            },
+            {
+                "id": 7,
+                "name": "Trening echipa nationala",
+                "price": 260,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/rjvAzB3.jpg",
+                "size": "L",
+                "colour": "Navy",
+                "material": "Poliester",
+                "brand": "JOMA",
+                "description": "Trening echipa națională, culoare navy"
+            }
+        ],
+        "image": "https://i.imgur.com/Qy8egvh.jpg",
+        "name": "Trening",
+        "description": "Articole de trening pentru fotbal si alergat"
+    },
+    "pants": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Blugi scurti dama",
+                "price": 60,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/dCoxnGF.jpg",
+                "size": "34",
+                "colour": "Bleumarin deschis",
+                "material": "Blug",
+                "brand": "Armani",
+                "description": "Blugi bleumarin, scurti, colecția primăvară-vară 2021, DS Damat."
+            },
+            {
+                "id": 9,
+                "name": "Blugi negri straight fit",
+                "price": 140,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/XJHzWIH.jpg",
+                "size": "34",
+                "colour": "Negru-gri",
+                "material": "Blug",
+                "brand": "Hugo Boss",
+                "description": "Blugi negri, straight, colecția toamnă 2021, Hugo Boss."
+            }
+        ],
+        "image": "https://i.imgur.com/leyafCi.jpg",
+        "name": "Pantaloni/blugi",
+        "description": "Jeanși și pantaloni pentru toate gusturile"
+    },
+    "jackets": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Tricou negru simplu",
+                "price": 30,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/XT1QG0G.jpg",
+                "size": "L",
+                "colour": "Negru",
+                "material": "Bumbac",
+                "brand": "Peek and Cloppenburg",
+                "description": "Tricou negru simplu, din bumbac."
+            },
+            {
+                "id": 11,
+                "name": "Tricou alb simplu",
+                "price": 45,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/NGPu9nU.jpg",
+                "size": "L",
+                "colour": "Alb",
+                "material": "Bumbac",
+                "brand": "DS Damat",
+                "description": "Tricou alb simplu, din bumbac."
+            }
+        ],
+        "image": "https://i.imgur.com/LCLAiHO.png",
+        "name": "Tricouri barbati",
+        "description": "Tricouri care nu te fac să pari mai gras"
+    },
+    "tshirts": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Tricou regular fit",
+                "price": 85,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/HV1f2Kq.jpg",
+                "size": "M",
+                "colour": "Alb",
+                "material": "Bumbac",
+                "brand": "Lacoste",
+                "description": "Tricou alb, colecția primăvară-vară 2021, Lacoste."
+            },
+            {
+                "id": 13,
+                "name": "Tricou rosu Infuse",
+                "price": 60,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/0kO1Qc6.jpg",
+                "size": "M",
+                "colour": "Roșu",
+                "material": "Bumbac",
+                "brand": "Infuse",
+                "description": "Tricou rosu Infuse colecția primvara 2021, Infuse ."
+            }
+            
+        ],
+        "image": "https://i.imgur.com/l27WtFL.jpg",
+        "name": "Tricouri",
+        "description": "Și de băiețeală și de sport."
+    },
+    "accesories": {
+        "items": [
+            {
+                "id": 14,
+                "name": "Benzi pentru sustinere BOX",
+                "price": 30,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/fQ8Iy1k.png",
+                "size": "L",
+                "colour": "Gri",
+                "material": "Poliester",
+                "brand": "OUTSHOCK",
+                "description": "Benzile de box au rolul de a sustine articulatiile si de a limita iratiile."
+            },
+            {
+                "id": 15,
+                "name": "Manusi de box",
+                "price": 185,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/8q4DrG3.jpg",
+                "size": "L",
+                "colour": "Negru",
+                "material": "Poliuretan",
+                "brand": "OUTSHOCK",
+                "description": "Manusi de box, nivel incepator, din spuma moale."
+            },
+            {
+                "id": 16,
+                "name": "Set gantere",
+                "price": 1600,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/KTNIQnl.jpg",
+                "size": "Universal",
+                "colour": "Negru",
+                "material": "Metal",
+                "brand": "Domyos",
+                "description": "Set de gantere ideal pentru un biceps bine lucrat, Domyos."
+            }
+        ],
+        "image": "https://i.imgur.com/u3DrYvU.jpg",
+        "name": "Accesorii",
+        "description": "Saci de box, aparate de cardio, gantere!"
+    }
+}

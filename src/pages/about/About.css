@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+}
+
+.img-class{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.paragraf-about{
+    height: 30vh;
+    text-align: center;
+}

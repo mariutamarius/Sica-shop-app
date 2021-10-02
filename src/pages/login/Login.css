@@ -1,0 +1,43 @@
+.login-page {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.col-12-login button {
+    color: black;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+  }
+  
+  .titlu-login-page {
+    color: black;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    border-width: 0.5rem;
+  }
+  
+  .titlu-login-page .link {
+    text-decoration: none;
+    margin-left: 4rem;
+    color:black;
+  }
+  
+  .titlu-login-page h1 {
+    color: black;
+  }
+  
+  .login-page p {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color:black;
+    font-size: 1.3rem;
+  }

@@ -1,0 +1,9 @@
+footer-bottom-favorite {
+    height: 52vh;
+    justify-content: center;
+    align-items: center;
+  }
+  .h3-favorite {
+    font-size: 2rem;
+    border-radius: 1rem;
+  }
